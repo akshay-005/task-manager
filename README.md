@@ -54,4 +54,8 @@ npm start
 | PATCH | /api/tasks/:id/toggle | Toggle status | Yes |
 
 ## Screenshots
-_(Add screenshots of Login, Register, and Dashboard pages)_
+./screenshots/
+
+## Live Demo
+Frontend: https://task-manager-red-pi-24.vercel.app
+Backend: https://task-manager-api-7kyj.onrender.com
